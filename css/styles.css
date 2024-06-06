@@ -1,0 +1,21 @@
+header {
+	width: 100%;
+	background-color: #cccc;
+	overflow: hidden;
+}
+
+ul {
+	width: 60%;
+	list-style-type: none;
+	display: block;
+	float: left;
+}
+
+ul>li {
+	display: inline-block;
+	width: 10%;
+}
+
+.logo-container {
+	float: left;
+}
